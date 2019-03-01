@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "266730068541",
+    "firebase_url": "https://chatapplication-f4d95.firebaseio.com",
+    "project_id": "chatapplication-f4d95",
+    "storage_bucket": "chatapplication-f4d95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266730068541:android:bdc2b686108b5299",
+        "android_client_info": {
+          "package_name": "com.example.narmadamurali.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266730068541-p1v65itpfvs2skg41n63oagcbcgcgo8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.narmadamurali.chatapplication",
+            "certificate_hash": "04edb7e38db03a35520c09db04c6fcddd86ce2a7"
+          }
+        },
+        {
+          "client_id": "266730068541-thmugqab0p24j0cv11ousnc04b4irj5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNDKaKihv6G94IMwkpPT1fC6mlVNrrGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266730068541-thmugqab0p24j0cv11ousnc04b4irj5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
